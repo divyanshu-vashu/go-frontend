@@ -10,7 +10,7 @@ This is the frontend application for a project that interacts with a Go backend.
 
 ## Backend
 
-The backend for this project is implemented using Go and can be found at [Go Backend Repository](https://github.com/divyanshu-vashu/go-backend). Ensure the backend is set up and running before starting the frontend application.
+The backend for this project is implemented using Go and can be found at [Go Backend Repository](https://github.com/divyanshu-vashu/21brs1444_backend). Ensure the backend is set up and running before starting the frontend application.
 
 ## Installation
 
