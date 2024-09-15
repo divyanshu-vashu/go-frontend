@@ -1,0 +1,63 @@
+.home-container {
+    padding: 20px;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Ensure both sections are vertically centered */
+    margin-bottom: 20px;
+}
+
+.search-section {
+    display: flex;
+    left: 18%;
+    margin: auto;
+    align-items: center; /* Center items vertically */
+    position: absolute;
+}
+
+.search-section input[type="text"] {
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.search-section button {
+    padding: 10px 20px;
+}
+
+.upload-section {
+    margin-left: 100px;
+    display: flex;
+    align-items: center; /* Center items vertically */
+}
+
+.upload-section input[type="file"] {
+    margin-right: 10px;
+}
+
+.upload-section button {
+    padding: 10px 20px;
+}
+
+.files-list {
+    margin-top: 20px;
+}
+
+.files-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.files-list li {
+    margin-bottom: 10px;
+}
+
+.files-list a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.files-list a:hover {
+    text-decoration: underline;
+}
