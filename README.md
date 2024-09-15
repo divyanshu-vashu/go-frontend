@@ -1,8 +1,6 @@
 # go-frontend
  
-Certainly! Here’s a README template for your React project:
 
----
 
 # React Frontend Project
 
